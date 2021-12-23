@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHMMaas
 - 👀 I’m interested in Econometrics (Statistics) in Health Science
-- 🌱 I’m currently learning how to estimate heterogeneous treatment effect
+- 🌱 I’m currently a PhD student at Erasmus MC and the Netherlands Comprehensive Cancer Center (IKNL)
 - 💞️ I’m looking to collaborate on personalized medicine
 - 📫 How to reach me c.h.m.maas@erasmusmc.nl
 
