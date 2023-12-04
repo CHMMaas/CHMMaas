@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHMMaas
 - 👀 I’m interested in Econometrics (Statistics) in Health Science
 - 🌱 I’m currently a PhD student at Erasmus MC, the Netherlands Comprehensive Cancer Center (IKNL), and Tufts Medical Center
-- 💞️ I’m looking for collaborations on precision medicine
+- 💞️ I’m looking for collaborations in the field of precision medicine
 - 📫 How to reach me c.h.m.maas@erasmusmc.nl
 
 <!---
