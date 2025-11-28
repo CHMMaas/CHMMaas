@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHMMaas
-- 👀 Training: MSc Econometrics (Business Analytics and Quantitative Marketing)
-- 🌱 I am a PhD candidate at Erasmus MC, the Netherlands Comprehensive Cancer Center (IKNL), and Tufts Medical Center (Boston, MA, USA)
+- 👀 Training: MSc Econometrics (Business Analytics and Quantitative Marketing), PhD
+- 🌱 I am a postdoc at LUMC
 - 💞️ My field of interest is precision medicine
 - 📫 How to reach me carolienm@live.nl
 
