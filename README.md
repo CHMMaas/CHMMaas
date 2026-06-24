@@ -8,7 +8,7 @@
 
 📫 How to reach me carolienm@live.nl
 
-Full CV: https://chmapps.shinyapps.io/CurriculumVitae/
+📖 Full CV at https://chmapps.shinyapps.io/CurriculumVitae/
 
 <!---
 CHMMaas/CHMMaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
